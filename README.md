@@ -171,7 +171,7 @@ TABLA V. Cálculo de errores en las resistencias.
 
 ## *CRONOGRAMA*
 
-![alt text]
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Cronograma.jpeg)
 
 ## *BIBLIOGRAFÍA*
 
