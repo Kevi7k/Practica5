@@ -74,16 +74,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla.
 
 TABLA I. Valores del Circuito Equivalente de Thévenin
 
-|Parametro electrico|  Circuito original |Circuito equivalente de Thévenin| 
-| ------------- | ------------- |--------------|
-| Voltaje (V) | Calculado  | Calculado |
-| Voltaje (V) |  99(V)          |  99(V)   |
-| Voltaje (V) | Medido        |    Medido   |
-| Voltaje (V) |  99(V)          |  99(V)   |
-|  Corriente(mA) | Calculado  | Calculado |
-| Corriente(mA) |  99(mA)          |  99(mA)   |
-| Corriente(mA) | Medido        |    Medido   |
-| Corriente(mA) |  99(mA)          |  99(mA)   |
+|                      |  Circuito | Original |  Circuito | Thévenin |
+|:--------------------:|:---------:|:--------:|:---------:|:--------:|
+| Parámetro  eléctrico | Calculado |  Medido  | Calculado |  Medido  |
+|      Voltaje (V)     |   3.8926  |   3.89   |   5.056   |   5.06   |
+|    Corriente (mA)    |   3.8926  |   3.89   |  15.3212  |   15.3   |
 
 TABLA II. Comprobación del Teorema de Thévenin
 
