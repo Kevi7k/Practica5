@@ -95,9 +95,15 @@ Fig.6. Circuito Simulado en TinkerCAD
 
 ## *Ecuaciones*
 
-Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.Lo único que cambia es la metodología al momento de resolver, como los pasos a seguir que tenemos en el marco teórico:
+Las ecuaciones que vamos a utilizar para este tema, prácticamente son las mismas de temas anteriores.Lo único que cambia es la metodología al momento de resolver, como los pasos a seguir que tenemos en el marco teórico pero tomando en cuenta lo siguiente:
 
-Ley de Ohm I=V/R
+La resistencia de Thévenin es la resultante de todas las resistencia en el circuito pero apagado las fuentes y se denomina como (Rth)
+
+El voltaje de Thévenin esta denominado con (Vth):
+
+Vth=In.Rth
+
+Donde In vendría ser la intensidad de donde quitamos la resistencia , cumpliendose Ley de Ohm y las unidades son las mismas.
 
 Intensidad=Amperio (A)
 
@@ -105,7 +111,7 @@ Voltaje=Voltio (V)
 
 Resistencia= Ohmio (omega)
 
-Una vez obtenido este modelo matemático podemos afirmar que se cumple la siguiente ley:
+Las leyes al igual , son las mismas (Kirchoff)
 
 V1+V2+V3+V4+...Vn=0
 
