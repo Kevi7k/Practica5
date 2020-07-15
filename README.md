@@ -153,11 +153,11 @@ TABLA V. Cálculo de errores en las resistencias.
 
 - Al final se pudo comprobar con los datos obtenidos, el teorema de Thévenin.
 
--
+- Los errores obtenidos son relativamente pequeños , por lo que podemos afirmar que la practica se realizo de una forma correcta.
 
--
+- El error cometido en medir el Voltaje de Thévenin en el circuito original es de 0,067% y en el equivalente de Thévenin 0,0014% por lo que se considera que el error en estas mediciones pueden ser despreciables.
 
--
+- En los calculos sobre la resistencia de Thévenin se obtuvo un error de 0,048% esto se debe que al momento de calcular se aproximaron los decimales. 
 
 ## *RECOMENDACIONES*
 
