@@ -48,7 +48,10 @@ Figura 2. Ejemplo del teorema de Thévenin
 
 ## *PROCEDIMIENTO*
 1. Arme el circuito que se muestra en la figura
-Figura 3
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Diagrama%203.png)
+
+Figura 3.  Circuito para comprobar el Teorema de Thévenin.
   
 2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
