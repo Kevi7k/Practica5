@@ -166,13 +166,10 @@ TABLA V. Cálculo de errores en las resistencias.
 
 ## *RECOMENDACIONES*
 
--
+- Para realizar la práctica de una manera acertada, hay que tomar en cuenta bien los conceptos básicos sobre este teorema y asi no cometer errores tanto como en la simulación, como en la realizacion del ejercicio de manera teórica.
 
--
+-Seguir paso a paso, de una manera ordenada el procedimiento para facilitar la simulación del circuito de forma correcta.
 
--
-
--
 
 ## *CRONOGRAMA*
 
