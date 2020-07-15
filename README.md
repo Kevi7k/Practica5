@@ -193,7 +193,7 @@ Figura 7. Medición de resistencia en el circuito de Thévenin.
 
 Figura 8. Cálculo de datos teóricos.
 
-![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Calculo_Errores.jpeg)
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Calculo_Error.jpeg)
 
 Figura 9. Cálculo de errores.
 
