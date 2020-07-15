@@ -96,7 +96,7 @@ Figura 3. Circuito propuesto simulado en TinkerCAD.
 
 ![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Thevening.png)
 
-Figura 4. Implementación del circuito de Thevening.
+Figura 4. Implementación del circuito de Thévenin.
 
 ## *Ecuaciones*
 
@@ -191,11 +191,11 @@ Figura 5. Medición de voltaje y corriente en el circuito original.
 
 ![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Voltaje_Corriente_Thevening.png)
 
-Figura 6. Medición de voltaje y corriente en el circuito de Thévening.
+Figura 6. Medición de voltaje y corriente en el circuito de Thévenin.
 
 ![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Resistencia_Thevening.png)
 
-Figura 7. Medición de resistencia en el circuito de Thévening.
+Figura 7. Medición de resistencia en el circuito de Thévenin.
 
 ![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Hoja_Calculos.jpg)
 
