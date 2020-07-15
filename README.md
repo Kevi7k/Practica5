@@ -156,7 +156,7 @@ TABLA V. Cálculo de errores en las resistencias.
 
 ## *CONCLUSIONES*
 
--
+- Al final se pudo comprobar con los datos obtenidos, el teorema de Thévenin.
 
 -
 
@@ -168,8 +168,9 @@ TABLA V. Cálculo de errores en las resistencias.
 
 - Para realizar la práctica de una manera acertada, hay que tomar en cuenta bien los conceptos básicos sobre este teorema y asi no cometer errores tanto como en la simulación, como en la realizacion del ejercicio de manera teórica.
 
--Seguir paso a paso, de una manera ordenada el procedimiento para facilitar la simulación del circuito de forma correcta.
+- Seguir paso a paso, de una manera ordenada el procedimiento para facilitar la simulación del circuito de forma correcta.
 
+- Realizar los calculos con el mayor cuidado al aproximar los números ya que si hay una equivocación en estos, el resultado teórico puede variar y eso nos puede generar un porcentaje mas alto de error.
 
 ## *CRONOGRAMA*
 
