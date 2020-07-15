@@ -1,14 +1,14 @@
 # Práctica 5
 # *TEOREMA DE THÉVENIN*
 ## *PLANTEAMIENTO DEL PROBLEMA*
-............
+A lo largo de la asignatura, se han visto una variedad de métodos para la resolución de circuitos eléctricos, sin embargo es frecuente encontrarnos con circuitos realmente complejos, los cuales suelen ser muy complicados resolver con las técnicas aprendidas anteriormente, es por esta razón que surge la necesidad de comprender el teorema de Thévenin, que resume un circuito, cualquiera que sea, en un circuito básico con un resistencia y un voltaje. Antes de hacer uso de este método será necesario validar este teorema a través de la práctica mediante su respectiva comprobación experimental.
 ## *OBJETIVOS:*
 # Objetivo general
-- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar el teorema de Thévenin
+- Diseñar un circuito electrico mediante la simulación en laboratorios virtuales para comprobar la validez del teorema de Thévenin
 
 # Objetivos específico
-- Comprender la metodología del teorema de Thévenin para reafirmar lo aprendido
-- Comparar los resultados teóricos con los prácticos, determinando los porcentajes de errores respectivos.
+- Comprender la metodología del teorema de Thévenin para reafirmar los conocimientos previamente adquiridos.
+- Analizar los resultados teóricos con los prácticos mediante la comparación de los mismos para la obtención de porcentajes de error respectivos.
 
 
 ## *LISTA DE MATERIALES:*
@@ -46,13 +46,13 @@ Figura 2. Ejemplo del teorema de Thévenin
 
 
 ## *PROCEDIMIENTO*
-1. Arme el circuito que se muestra en la figura
+1. Prepare el laboratorio virtual de su preferencia y arme el circuito que se muestra en la figura
 
 ![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Diagrama%203.png)
 
 Figura 3.  Circuito para comprobar el Teorema de Thévenin.
   
-2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+2. Con el circuito sin ningún tipo de modificación, mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
 3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla.
@@ -110,11 +110,11 @@ Voltaje=Voltio (V)
 
 Resistencia= Ohmio (omega)
 
-Las leyes al igual , son las mismas (Kirchoff)
+Para encontrar las corrientes necesarias para el calculo de voltajes, tanto en el circuito original como en el circuito de Thévenin será necesario hacer uso de las leyes de Kirchoff. De manera que:
 
 V1+V2+V3+V4+...Vn=0
 
-Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando eso se cumple otra ley que nos habla sobres las corrientes:
+Esta ecuación se cumple siempre y cuando sea de solamente una malla, es decir la sumatoria de voltajes dentro de una malla es igual a cero, afirmando esto, se cumple otra ley que nos habla sobres las corrientes. Es muy útil si para el cálculo realizaramos un análisis nodal
 
 I(salida)=I(entrada)
 
@@ -151,13 +151,15 @@ TABLA V. Cálculo de errores en las resistencias.
 
 ## *CONCLUSIONES*
 
-- Al final se pudo comprobar con los datos obtenidos, el teorema de Thévenin.
+- Se ha comprobado y validado la efectividad del teorema de Thévenin, ya que al realizar una comparación entre los datos teóricos arrojados por el método y las mediciones realizadas en el laboratorio virtual llegamos a los mismos resultados, con sus respectivas variaciones respecto al error.
 
-- Los errores obtenidos son relativamente pequeños , por lo que podemos afirmar que la practica se realizo de una forma correcta.
+- Los errores obtenidos son relativamente pequeños, de manera que su insignificancia nos conduce a afirmar que la práctica se realizó de una forma correcta. Los errores obtenidos surgen ya sea por la aproximaciones en los valores teóricos, por fallo humano en la medición o sensibilidad del instrumento.
 
 - El error cometido en medir el Voltaje de Thévenin en el circuito original es de 0,067% y en el equivalente de Thévenin 0,0014% por lo que se considera que el error en estas mediciones pueden ser despreciables.
 
-- En los calculos sobre la resistencia de Thévenin se obtuvo un error de 0,048% esto se debe que al momento de calcular se aproximaron los decimales. 
+- En los cálculos sobre la resistencia de Thévenin se obtuvo un error de 0,048% esto se debe que al momento de calcular se aproximaron los decimales. 
+
+- Realizando una comparación entre los datos calculados y medidos del circuito, tanto en corriente como en voltaje se obtiene un error relativo porcentual muy pequeño, en ambos 0.067%, error que no repercute posteriormente, por tanto se considera que su valor es ínfimose puede decir que es un error despreciables.
 
 ## *RECOMENDACIONES*
 
@@ -165,7 +167,7 @@ TABLA V. Cálculo de errores en las resistencias.
 
 - Seguir paso a paso, de una manera ordenada el procedimiento para facilitar la simulación del circuito de forma correcta.
 
-- Realizar los calculos con el mayor cuidado al aproximar los números ya que si hay una equivocación en estos, el resultado teórico puede variar y eso nos puede generar un porcentaje mas alto de error.
+- Realizar los cálculos con el mayor cuidado al aproximar los números ya que si hay una equivocación en estos, el resultado teórico puede variar y eso nos puede generar un porcentaje más alto de error, que puede dejar en invalidez a nuestra práctica.
 
 ## *CRONOGRAMA*
 
