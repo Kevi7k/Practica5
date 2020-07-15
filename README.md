@@ -121,7 +121,11 @@ I(salida)=I(entrada)
 
 ## *EXPLICACIÓN DEL CIRCUITO*
 
-...........
+Para nuestra práctica, tenemos un circuito el cual está conformado por dos fuentes de voltaje, y 5 resistencias. Los valores de las fuentes de voltaje son de 12 V y de 2V, las resistencias son de 560, 4700, 330, 100 y 1000 ohmios, esta última será tomada como nuestra resistencia que la vamos a excluir para sacar nuestra resistencia y nuestro voltaje Thevenin. La corriente desde nuestra fuente de voltaje de 12 V, hasta nuestra resistencia de 560 ohmios. De esta resistencia saldrá una resistencia de 4700 ohmios, la cual se conectara su otro extremo con el polo negativo de la primera fuente, Y también de la resistencia de 560 ohmios, estará conectado con el polo negativo de la segunda fuente de voltaje que es de 2 V. Des nuestra segunda fuente de voltaje, saldrán dos resistencias, la primera que será de 330 ohmios y que se conectara con el polo negativo de nuestra primera fuente de voltaje, y la segunda resistencia que es de 100 ohmios, que estará conectada en serie con nuestra resistencia de 1000 ohmios, la cual terminara en el polo negativo de nuestra primera fuente de voltaje.
+
+Para realizar nuestros voltajes en Thevenin vamos a realizar lo siguiente. Para nuestra resistencia en Thevenin, excluimos la resistencia de 1000 ohmios, dejando el sistema abierto en ese punto, y convirtiendo las fuentes de voltaje en cortocircuitos. Sacamos una resistencia equivalente y esta será nuestra resistencia Thevenin. Para nuestro voltaje Thevenin conectaremos las fuentes de voltaje, y conservaremos nuestra resistencia de 1000 ohmios abierto, realizamos el análisis como tenemos en anexos, y ya tendremos nuestro voltaje en thevenin.
+
+
 
 ## *ANÁLISIS DE RESULTADOS*
 En general los resultados de las mediciones nunca serán exactas, a pesar del máximo cuidado que se tenga en el momento de realizar cada una de ellas, no es posible expresar el reultado como exacto, es por esto que a continuación se ralizará una tabla donde se muestre  el error relativo de cada valor obtenido:
