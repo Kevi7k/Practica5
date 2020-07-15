@@ -66,12 +66,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla.
 
 ## *TABULACIÓN DE DATOS*
 
-|VTH (V) |RTH (Ω)| 
-| ------------- | ------------- | 
-| Calculado     |  Calculado    | 
-| 99(V)         |      99(Ω)    |    
-|  Medido       |   Medido      |  
-|  99(V)        |      99(Ω)    |
+|Tipo de dato |VTH (V) |RTH (Ω)| 
+| ------------- | ------------- | ------------- | 
+| Calculado     | 5.056     |  298.8558    | 
+| Medido     | 5.06         |      299    |    
+
 
 TABLA I. Valores del Circuito Equivalente de Thévenin
 
