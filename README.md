@@ -1,5 +1,4 @@
-# Practica5
-Informe #5
+# Práctica 5
 # *TEOREMA DE THÉVENIN*
 ## *PLANTEAMIENTO DEL PROBLEMA*
 ............
