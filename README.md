@@ -28,11 +28,23 @@ Informe #5
 |  1 | Protoboard      |
 
 ## *MARCO TEÓRICO*
-.
+El teorema de Thévenin nos dice  que cualquier red de corriente lineal de dos terminales puede ser reemplazada por un circuito equivalente que contiene un voltaje y una resistencia equivalente en serie.
+
+Entonces tenemos que si una resistencia está enlazada a un circuito entre los puntos A y B y reemplazamos el circuito por el otro equivalente entonces en la resistencia va a recorrer la misma intensidad.
+
+Figura 1
+
+El valor de la fuente del circuito resultante se denomina tensión de Thévenin y se consigue resolviendo la tensión del circuito entre A y B sin tomar en cuenta la resistencia entonces lo que produce esto es un circuito abierto.
+
+Entonces, ahora el valor de la resistencia resultante  en serie se denomina resistencia de Thévenin y se calcula como si existiera una resistencia en los puntos A y B sin tomar en cuenta el valor de la resistencia y poniendo en cortocircuito a todas las fuentes de voltaje
+
+Figura 2
+
+
 
 ## *PROCEDIMIENTO*
 1. Arme el circuito que se muestra en la figura
-  (FIGURA)
+Figura 3
   
 2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
