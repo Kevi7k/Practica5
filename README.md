@@ -90,7 +90,13 @@ TABLA II. Comprobación del Teorema de Thévenin
 
 ## *DIAGRAMA*
 
-Fig.6. Circuito Simulado en TinkerCAD
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Original.png)
+
+Figura 3. Circuito propuesto simulado en TinkerCAD.
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Original.png)
+
+Figura 4. Implementación del circuito de Thevening.
 
 ## *Ecuaciones*
 
@@ -179,4 +185,23 @@ Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos
 
 ## *ANEXOS*
 
-![alt text]
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Voltaje_Corriente_Original.png)
+
+Figura 5. Medición de voltaje y corriente en el circuito original.
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Voltaje_Corriente_Thevening.png)
+
+Figura 6. Medición de voltaje y corriente en el circuito de Thévening.
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Resistencia_Thevening.png)
+
+Figura 7. Medición de resistencia en el circuito de Thévening.
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Hoja_Calculos.jpg)
+
+Figura 8. Cálculo de datos teóricos.
+
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Calculo_Errores.jpeg)
+
+Figura 9. Cálculo de errores.
+
