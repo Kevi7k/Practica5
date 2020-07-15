@@ -94,7 +94,7 @@ TABLA II. Comprobación del Teorema de Thévenin
 
 Figura 3. Circuito propuesto simulado en TinkerCAD.
 
-![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Original.png)
+![alt text](https://github.com/Kevi7k/Practica5/blob/master/Im%C3%A1genes/Circuito_Thevening.png)
 
 Figura 4. Implementación del circuito de Thevening.
 
